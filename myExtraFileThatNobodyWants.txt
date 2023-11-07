@@ -5,3 +5,4 @@ line 3
 line 4
 
 line 5 was added in the browser by some other colleague
+line 6 Look at me -- I'm the captain now
